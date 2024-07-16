@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[3]:
-
+!pip install matplotlib
 
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
